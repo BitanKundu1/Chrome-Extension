@@ -1,0 +1,15 @@
+{
+    "name": "Cricket News",
+    "version": "0.0.1",
+    "author": "Bitan Kundu",
+    "description": "All ongoing cricket news present here.",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "logo.jpg"
+    },
+    "icons": {
+        "128": "logo.jpg"
+    },
+    "permission": ["actionTab"]
+}
